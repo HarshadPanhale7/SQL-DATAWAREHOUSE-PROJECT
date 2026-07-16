@@ -74,7 +74,7 @@ This project helped strengthen practical knowledge in:
 
 # About Me
 
-Hi, I'm Harshad Panhale.
+Hi, I'm **Harshad Panhale**.
 
 I'm a B.Sc. Computer Science student with a strong interest in **Data Engineering, Data Science, Machine Learning, and Artificial Intelligence**. I enjoy building real-world projects that strengthen my understanding of data systems and modern analytics.
 
